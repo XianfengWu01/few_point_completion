@@ -1,5 +1,5 @@
-# few_point_completion
-low resolution point cloud (early access)
+# few points completion
+low resolution point cloud completion (early access)
 
 We are releasing our code in early access. Future releases may drastically overwrite early access code.
 
